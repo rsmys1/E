@@ -1,4 +1,5 @@
 اول خطوة حمل الذكاء الصناعي المحلي 
+https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/blob/main/mistral-7b-instruct-v0.1.Q4_0.gguf
 ![image](https://github.com/user-attachments/assets/8d32b07e-b22e-4aa0-bda4-bd8aa2bc791a)
 
 عندد الكلمة هاذي اضغط تحميل
